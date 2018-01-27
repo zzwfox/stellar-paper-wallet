@@ -5,7 +5,7 @@ Run the code on github :
 https://zzwfox.github.io/stellar-paper-wallet/
 test in firefox
 
-Or download and run locally (works offline in your browser).
+Or download and run locally (works offline in your firefox browser).
 
 # Credits
 

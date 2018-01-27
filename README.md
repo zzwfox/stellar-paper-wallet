@@ -1,7 +1,7 @@
 # Stellar paper wallet
 Generates key-pair: public (address) and private key (secret).
 
-Run the code on github:
+Run the code on github test in firefox:
 https://zzwfox.github.io/stellar-paper-wallet/
 
 Or download and run locally (works offline in your browser).

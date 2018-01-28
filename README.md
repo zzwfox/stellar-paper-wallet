@@ -7,6 +7,11 @@ test in firefox
 
 Or download and run locally (works offline in your firefox browser).
 
+paper wallet:
+![image](https://zzwfox.github.io/stellar-paper-wallet/paper.PNG)
+Print:
+![image](https://zzwfox.github.io/stellar-paper-wallet/nicer.PNG)
+
 # Credits
 
 - stellar-lib
